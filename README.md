@@ -1,7 +1,7 @@
 # state-of-the-union
 A report on the impact of Open Source by Colombian Tech Startups
 
-### Selection Criteria
+### Company Selection Criteria
 Company must have one or more the following criteria to qualify as _Colombian Tech Startups_
 
 - founded in the Colombian territory
