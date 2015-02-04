@@ -31,9 +31,9 @@ An original repository is:
 To make a pull request, you will need a Github account; if you're unclear on this process, see Github's documentation on [forking](https://help.github.com/articles/fork-a-repo) and [pull requests](https://help.github.com/articles/using-pull-requests). Pull requests should be targeted at the master branch.
 
 ## Report Summary
-The complete report can be found in the [report.csv] file, below is a consolidated list
+The complete report can be found in the [report.csv](report.csv) file, below is a consolidated list
 
-|-------------------|-------------|
+
 |      Company      |    Impact   |
 |-------------------|-------------|
 | Advisers.io       | none        |
@@ -57,5 +57,5 @@ The complete report can be found in the [report.csv] file, below is a consolidat
 | Ubidots           | none        |
 | Viajala           | none        |
 | WeHostels         | none        |
-|-------------------|-------------|
+
 
