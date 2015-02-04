@@ -17,10 +17,10 @@ An original repository is:
 - not related to content or marketing (blogs, etc.)
 
 ### Scoring Criteria
-- minor: at least 1 original repository with more than 5 stars
-- significant: at least 1 original repository with more than 50 stars
-- major: at least 1 original repository with more than 500 stars
-- impressive: at least 1 original repository with more than 1000 stars
+- `minor`: at least 1 original repository with more than 5 stars
+- `significant`: at least 1 original repository with more than 50 stars
+- `major`: at least 1 original repository with more than 500 stars
+- `impressive`: at least 1 original repository with more than 1000 stars
 
 ### Contributing
 
