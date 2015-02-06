@@ -57,5 +57,5 @@ The complete report can be found in the [report.csv](report.csv) file, below is 
 | Ubidots           | none        |
 | Viajala           | none        |
 | WeHostels         | none        |
-
+| Elibom            | minor       |
 
