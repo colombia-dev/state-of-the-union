@@ -52,7 +52,7 @@ The complete report can be found in the [report.csv](report.csv) file, below is 
 | Ojala             | none        |
 | Oppten            | none        |
 | PulsoSocial       | none        |
-| Ride              | none        |
+| Ride              | minor       |
 | Tappsi            | none        |
 | Trotter           | none        |
 | Ubidots           | none        |
