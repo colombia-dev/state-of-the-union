@@ -7,7 +7,8 @@ Company must have one or more the following criteria to qualify as _Colombian Te
 - founded in the Colombian territory
 - 1 or more Colombian born or nationalized founders
 - engineering operations in colombia (more than 40% of their eng team)
-- must not be a development or consulting shop
+
+In addtion they should not be a development or consulting shop. If they are a consulting company, an agency or a dev shop they must have created a product, which must operate as a separate entity with a permantently staffed team. The objective here is to measure the impact of our innovative tech industry and not the byproduct contributions of the out-sourcing or service providing industry.
 
 ### Repository Selection Criteria
 An original repository is:
