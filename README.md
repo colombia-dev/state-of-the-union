@@ -46,6 +46,7 @@ The complete report can be found in the [report.csv](report.csv) file, below is 
 | Entryless         | none        |
 | Geniusly          | none        |
 | Hooklift          | significant |
+| Mejorando.la      | significant |
 | MiCarga.com       | none        |
 | MortgageHippo     | none        |
 | Ojala             | none        |
